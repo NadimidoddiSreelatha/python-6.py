@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+    
+    
+}
+h1{
+    color: black;
+    text-align: center;
+    justify-content:space-around;
+}
+h2{    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+h3{
+    color: gray;
+     text-align: center;
+}
+.card{
+    background-color: orange;
+    
+    height: 700px;
+    padding-bottom: 500pxpx;
+    
+    
+    
+
+
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+*{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            text-decoration: none;
+            list-style: none;
+            font-family: sans-serif;
+        }
+        .hero{
+            min-height: 100vh;
+            background: url(https://image-static.collegedunia.com/public/college_data/images/campusimage/1417413747Capture1.JPG);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        nav{
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            width: 100%;
+            padding: 20px;
+            margin: auto;
+            border-bottom: 2px solid blueviolet
+        }
+        .logo{
+            width: 300px;
+        }
+        nav ul{
+            display: flex;
+            align-items: center;
+        }
+        nav ul li{
+            margin: 0 20px;
+
+        }
+        nav ul lia{
+            font-size: 15px;
+            color: white;
+            text-transform: uppercase;
+        }
+        nav button{
+            padding: 20px 35px;
+            background: orangered;
+            border: 2px solid orangered;
+            font-size: 20px;
+            font-weight: 600;
+            color: darkgrey;
+            cursor: pointer;
+        }
+        .login{
+            background: transparent;
+            border: 2px solid white;
+            margin-right: 20px;
+        }
+        .content{
+            position: absolute;
+            top: 35%;
+            left: 90px;
+        }
+        h2{
+            font-size: 50px;
+            color: white;
+            text-transform: uppercase;
+
+            font-weight: normal;
+
+        }
+        p{
+            color: white;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+        .content button{
+            background: orange;
+            border: none;
+            padding: 12px 15px;
+            color: white;
+            font-size: 14px;
+            font-weight: 600;
+            margin-top: 50px;
+            cursor: pointer;
+        }

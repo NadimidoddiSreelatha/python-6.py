@@ -1,0 +1,12 @@
+div{
+    border: 1px solid black;
+    display: flex;
+    width: 30vw;
+    height: 30vh;
+}
+p{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    margin: 5px;
+}
